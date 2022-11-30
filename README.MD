@@ -11,3 +11,9 @@ Ejercicios y ejemplos del curso de Pyhton de OpenBootCamp
 * [Ejercicio3:Indice masa corporal](./Exercises/Ejercicio3.py)
 
 * [Ejercicio4:Numeros 1 al 100 en orden inverso](./Exercises/Ejercicio4.py)
+
+* [Ejercicio5:Bisiesto o no bisiesto](./Exercises/Ejercicio5.py)
+
+*Informacion sobre este ejercicio*
+
+[Info](https://learn.microsoft.com/es-es/office/troubleshoot/excel/determine-a-leap-year)
