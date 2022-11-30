@@ -17,3 +17,6 @@ Ejercicios y ejemplos del curso de Pyhton de OpenBootCamp
 *Informacion sobre este ejercicio*
 
 [Info](https://learn.microsoft.com/es-es/office/troubleshoot/excel/determine-a-leap-year)
+
+### Clases y Objetos
+* [Ejercicio1:Clase Coche Herencia](./Exercises/Clases_Objetos/Ejercicio1.py)
