@@ -24,3 +24,4 @@ Ejercicios y ejemplos del curso de Pyhton de OpenBootCamp
 
 ### Modulos
 * [Ejercicio1:Modulo operaciones arimeticas](./Exercises/Modulos/Ejercicio1.py)
+* [Ejercicio2:Modulo time con hora del sistema](./Exercises/Modulos/Ejercicio2.py)
