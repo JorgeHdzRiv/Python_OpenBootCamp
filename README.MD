@@ -21,3 +21,6 @@ Ejercicios y ejemplos del curso de Pyhton de OpenBootCamp
 ### Clases y Objetos
 * [Ejercicio1:Clase Coche Herencia](./Exercises/Clases_Objetos/Ejercicio1.py)
 * [Ejercicio2:Clase Alumno](./Exercises/Clases_Objetos/Ejercicio2.py)
+
+### Modulos
+* [Ejercicio1:Modulo operaciones arimeticas](./Exercises/Modulos/Ejercicio1.py)
