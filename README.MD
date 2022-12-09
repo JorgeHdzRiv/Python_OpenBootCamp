@@ -28,3 +28,4 @@ Ejercicios y ejemplos del curso de Pyhton de OpenBootCamp
 
 ### Archivos
 * [Ejercicio1:Archivos escritura y lectura](./Exercises/Archivos/Ejercicio1.py)
+* [Ejercicio2:Serializar objetos](./Exercises/Archivos/Ejercicio2.py)
