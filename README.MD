@@ -33,3 +33,6 @@ Ejercicios y ejemplos del curso de Pyhton de OpenBootCamp
 ### Funciones Built-In
 * [Ejercicio1:Uso de set](./Exercises/Funciones/Ejercicio1.py)
 * [Ejercicio2:Suma de una lista de numeros impares filter y reduce](./Exercises/Funciones/Ejercicio2.py)
+
+### Interfaces
+* [Ejercicio1:Seleccion con reinicio](./Exercises/Interfaces/Ejercicio1.py)
