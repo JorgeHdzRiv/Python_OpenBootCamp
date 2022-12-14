@@ -36,3 +36,4 @@ Ejercicios y ejemplos del curso de Pyhton de OpenBootCamp
 
 ### Interfaces
 * [Ejercicio1:Seleccion con reinicio](./Exercises/Interfaces/Ejercicio1.py)
+* [Ejercicio2:Listbox con un messagebox](./Exercises/Interfaces/Ejercicio2.py)
