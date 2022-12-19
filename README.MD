@@ -41,3 +41,6 @@ Ejercicios y ejemplos del curso de Pyhton de OpenBootCamp
 ### Bases de datos
 * [Ejercicio1:Lista de alumnos con conexion a una base de datos](./Exercises/BasesDatos/Ejercicio1.py)
 
+### Django
+* [Ejercicio1:Django gestion de peliculas y directores](./Exercises/Django/Ejercicio1/)
+
